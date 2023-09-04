@@ -1,0 +1,13 @@
+[History]
+1=#P0#=mb	#P1#=cmdCadastrar_KeyPress	#P2#=Project1/TelaCadastro/cmdCadastrar_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902122914	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=cmdSair_Click	#P2#=Project1/frmHello/cmdSair_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902121656	#P7#=0	#P8#=3	.
+3=#P0#=mb	#P1#=txtPassword2_KeyPress	#P2#=Project1/TelaCadastro/txtPassword2_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902123220	#P7#=0	#P8#=6	.
+4=#P0#=mb	#P1#=cmdCadastrar_Click	#P2#=Project1/TelaCadastro/cmdCadastrar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902123011	#P7#=0	#P8#=21	.
+5=#P0#=mb	#P1#=lblVoltar_Click	#P2#=Project1/TelaCadastro/lblVoltar_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230902123010	#P7#=0	#P8#=-2	.
+6=#P0#=mb	#P1#=txtPassword_KeyPress	#P2#=Project1/TelaLogin/txtPassword_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902123429	#P7#=0	#P8#=6	.
+7=#P0#=mb	#P1#=txtEmail_KeyPress	#P2#=Project1/TelaCadastro/txtEmail_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902122937	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=txtUser2_KeyPress	#P2#=Project1/TelaCadastro/txtUser2_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902122549	#P7#=0	#P8#=5	.
+9=#P0#=mb	#P1#=cmdLogin_Click	#P2#=Project1/TelaLogin/cmdLogin_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902123354	#P7#=0	#P8#=15	.
+10=#P0#=mb	#P1#=txtUser_KeyPress	#P2#=Project1/TelaLogin/txtUser_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230831152118	#P7#=0	#P8#=2	.
+11=#P0#=mb	#P1#=cmdSair_Click	#P2#=Project1/TelaLogin/cmdSair_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230902123448	#P7#=0	#P8#=1	.
+12=#P0#=mb	#P1#=lblCriarConta_Click	#P2#=Project1/TelaLogin/lblCriarConta_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230831143853	#P7#=0	#P8#=1	.
